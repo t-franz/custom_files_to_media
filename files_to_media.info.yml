@@ -1,0 +1,5 @@
+name: 'Files to Media'
+type: module
+description: 'Bulk convert all unused files to media'
+core: 8.x
+core_version_requirement: '^8 || ^9'
